@@ -1,4 +1,4 @@
-# ** Epic-nes, amazing interactive adventure (or maybe not)**
+# **Epic-nes, amazing interactive adventure (or maybe not)**
 
 # Prerequist
 
