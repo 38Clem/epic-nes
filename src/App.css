@@ -1,0 +1,16 @@
+body{
+  background-image: url(./assets/background/sunset.jpg);
+
+}
+
+.App {
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  
+}
+
+h1, div, p, button{
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: large
+};
